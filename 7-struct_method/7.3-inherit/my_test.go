@@ -1,4 +1,4 @@
-package inherit
+package __3_inherit
 
 import (
 	"fmt"

@@ -1,4 +1,4 @@
-package factoryMethod
+package __2_factoryMethod
 
 type car struct {
 	carBrand string

@@ -1,4 +1,4 @@
-package method
+package __4_method
 
 // ShowCar 内嵌类的方法
 func (self *car) ShowCar() (carInfo string) {

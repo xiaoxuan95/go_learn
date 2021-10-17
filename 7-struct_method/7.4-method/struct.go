@@ -1,4 +1,4 @@
-package method
+package __4_method
 
 type car struct {
 	carBrand string

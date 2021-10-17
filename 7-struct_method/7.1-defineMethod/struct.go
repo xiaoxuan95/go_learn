@@ -1,4 +1,4 @@
-package defineMethod
+package __1_defineMethod
 
 type FirstStruct struct {
 	name string

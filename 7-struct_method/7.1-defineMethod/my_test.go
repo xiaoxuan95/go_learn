@@ -1,4 +1,4 @@
-package defineMethod
+package __1_defineMethod
 
 import (
 	"fmt"
